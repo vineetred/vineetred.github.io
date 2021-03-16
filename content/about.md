@@ -3,7 +3,9 @@ title = "Me"
 slug = "about"
 +++
 
-I'm a midly colourblind grad student at Northeastern. I did my undergrad from [Ashoka University](https://ashoka.edu.in/), where I graduated with I graduated with a major in CS and a minor in International Relations
+I'm a mildly colourblind CS grad student at Northeastern. I did my undergrad from [Ashoka University](https://ashoka.edu.in/), where I graduated with a major in CS and a minor in International Relations.
+
+My current areas of research include NLP and GAN based transformers.
 
 The projects I am most proud of are 
 * [flowy](https://github.com/vineetred/flowy)
