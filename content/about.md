@@ -10,4 +10,4 @@ The projects I am most proud of are
 * [malwareDetection](https://github.com/vineetred/malwareDetection)
 * [OneVote](https://github.com/vineetred/oneVote)
 
-My other projects are availble on my GitHub](https://github.com/vineetred/) profile.
+My other projects are availble on my GitHub](https://github.com/vineetred/) profile. 
