@@ -157,3 +157,4 @@ url = "https://luizdepra.dev"
 name = "Contact me"
 weight = 5
 url = "contact/"
+publishDir = "docs"
